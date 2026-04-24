@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "dc934acb671ad41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "227f37bbc96b0fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add9e610d5b92cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Willkommen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Willkommen"
+            }
+          },
+          {
+            "id": "105b80617d0748fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C .NET Programming/c# Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c# Note"
+            }
+          },
+          {
+            "id": "b0d995ed5bcdfcb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitnet/Bitnet WSL env.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitnet WSL env"
+            }
+          },
+          {
+            "id": "08607adc90c28660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitnet/BitNet 1.58b 本地推理部署实战总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BitNet 1.58b 本地推理部署实战总结"
+            }
+          },
+          {
+            "id": "ab26e676f503e9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitnet/Bitnet WSL env.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bitnet WSL env"
+            }
+          },
+          {
+            "id": "13f55723c0c451da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitnet/本地私有 AI 推理微服务架构部署手册.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "本地私有 AI 推理微服务架构部署手册"
+            }
+          },
+          {
+            "id": "ed21f756ef43ef06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "5f886d01b089db25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c# Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c# Note"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c254ced9e02df16",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a598fdfec10c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cfab33b8a00523e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8afc34bb6c18e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "496f918125d0aef7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          },
+          {
+            "id": "ce6d9ff95e754b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Willkommen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Willkommen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f469ff98e3010c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7bbe7ca4a077e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df8b60111925385",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "如何构建c# 在vscode的编译环境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf 如何构建c# 在vscode的编译环境"
+            }
+          },
+          {
+            "id": "10352897bd2ed05b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "如何构建c# 在vscode的编译环境.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von 如何构建c# 在vscode的编译环境 öffnen"
+            }
+          },
+          {
+            "id": "9cbe05a5a003d3b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d4435655e200ac2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "9ea13963d0776a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "如何构建c# 在vscode的编译环境.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von 如何构建c# 在vscode的编译环境"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "ed21f756ef43ef06",
+  "lastOpenFiles": [
+    "Obsidian-Vault/Powershell cmd.md",
+    "Obsidian-Vault/free-claude-code 的全流程部署命令.md",
+    "Obsidian-Vault/LocalFreeClaude",
+    "Obsidian-Vault/C .NET Programming/如何构建c# 在vscode的编译环境.md",
+    "Obsidian-Vault/C .NET Programming/c# Note.md",
+    "Obsidian-Vault/C .NET Programming/Willkommen.md",
+    "Obsidian-Vault/C .NET Programming",
+    "Obsidian-Vault/Bitnet/本地私有 AI 推理微服务架构部署手册.md",
+    "Obsidian-Vault/Bitnet/Gemma install.md",
+    "Obsidian-Vault/Bitnet/BitNet 1.58b 本地推理部署实战总结.md",
+    "Obsidian-Vault/Bitnet/Bitnet WSL env.md",
+    "Obsidian-Vault/Bitnet/BitNet 1.58b：从环境部署到 Python 自动化推理全流程.md",
+    "Obsidian-Vault/Bitnet",
+    "Obsidian-Vault",
+    "未命名.base",
+    "free-claude-code 的全流程部署命令.md",
+    "Powershell cmd.md",
+    "Bitnet/Gemma install.md",
+    "Bitnet/本地私有 AI 推理微服务架构部署手册.md",
+    "LocalFreeClaude",
+    "Bitnet/BitNet 1.58b：从环境部署到 Python 自动化推理全流程.md",
+    "Bitnet/Bitnet WSL env.md",
+    "C .NET Programming/c# Note.md",
+    "C .NET Programming/如何构建c# 在vscode的编译环境.md",
+    "Bitnet/BitNet 1.58b 本地推理部署实战总结.md",
+    "Bitnet",
+    "C .NET Programming/Willkommen.md",
+    "Unbenannt.base",
+    "C .NET Programming"
+  ]
+}
