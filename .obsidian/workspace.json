@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C .NET Programming/如何构建c# 在vscode的编译环境.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何构建c# 在vscode的编译环境"
+              "title": "Welcome"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C .NET Programming/如何构建c# 在vscode的编译环境.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何构建c# 在vscode的编译环境 的反向链接列表"
+              "title": "Welcome 的反向链接列表"
             }
           },
           {
@@ -185,21 +185,21 @@
   },
   "active": "dcdf199af65ad8b9",
   "lastOpenFiles": [
-    "C .NET Programming/c# Note.md",
     "Powershell cmd.md",
     "free-claude-code 的全流程部署命令.md",
-    "C .NET Programming/如何构建c# 在vscode的编译环境.md",
+    "如何构建c sharp 在vscode的编译环境.md",
     "C .NET Programming/Willkommen.md",
+    "C .NET Programming/如何构建c# 在vscode的编译环境.md",
+    "Bitnet/Bitnet WSL env.md",
+    "Bitnet/Gemma install.md",
+    "C .NET Programming/c# Note.md",
     "C .NET Programming",
     "Bitnet/本地私有 AI 推理微服务架构部署手册.md",
-    "Bitnet/Gemma install.md",
-    "Bitnet/Bitnet WSL env.md",
     "Bitnet/BitNet 1.58b：从环境部署到 Python 自动化推理全流程.md",
     "Bitnet/BitNet 1.58b 本地推理部署实战总结.md",
     "Bitnet",
     "未命名 1.base",
     "未命名.base",
-    "如何构建c sharp 在vscode的编译环境.md",
     "Welcome.md",
     "vscode"
   ]
